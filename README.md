@@ -7,3 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-** _Projeto: Recriando o Wikipedia com Layout Moderno_
 
+# 
+**1- Entendendo HTML Semântico**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semâtica no HTML, principalmente para facilitação de SEO e acessibilidade.
