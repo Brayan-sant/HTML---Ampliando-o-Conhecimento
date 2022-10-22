@@ -11,3 +11,5 @@
 **1- Entendendo HTML Semântico**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semâtica no HTML, principalmente para facilitação de SEO e acessibilidade.
+
+&nbsp; DOM + ARIA, árvore de acessibilidade e Web Scraping
