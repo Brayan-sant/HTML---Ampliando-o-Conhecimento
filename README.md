@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** [_Entendendo HTML Semântico_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/Aulas/Entendendo%20HTML%20Sem%C3%A2ntico.docx)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2-** _HTML: Recursos Especiais_
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** [_HTML: Recursos Especiais_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/Aulas/HTML%20-%20Recursos%20Especiais.docx)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-** _Projeto: Recriando o Wikipedia com Layout Moderno_
 
@@ -13,3 +13,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semâtica no HTML, principalmente para facilitação de SEO e acessibilidade.
 
 &nbsp; DOM + ARIA, árvore de acessibilidade e Web Scraping
+
+# 
+**2- HTML: Recursos Especiais**
