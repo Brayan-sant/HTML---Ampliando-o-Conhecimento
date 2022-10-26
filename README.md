@@ -10,9 +10,13 @@
 # 
 **1- Entendendo HTML Semântico**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semâtica no HTML, principalmente para facilitação de SEO e acessibilidade.
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semântica no HTML, principalmente para facilitação de SEO e acessibilidade.
 
 &nbsp; DOM + ARIA, árvore de acessibilidade e Web Scraping
 
 # 
 **2- HTML: Recursos Especiais**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de ampliar conhecimento sobre a estrutura semântica do HTML, principalmente sobre novos recursos do HTML-5.
+
+&nbsp; Tag <datalist >, Tag < code >, Tag < kbd >, Tag < pre >, Tag < details >, Tag < meter >, Tag < progress >, Tag < mark > + JavaScript e Tag < canvas >, como seus atributos.
