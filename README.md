@@ -20,3 +20,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de ampliar conhecimento sobre a estrutura semântica do HTML, principalmente sobre novos recursos do HTML-5.
 
 &nbsp; Tag <datalist >, Tag < code >, Tag < kbd >, Tag < pre >, Tag < details >, Tag < meter >, Tag < progress >, Tag < mark > + JavaScript e Tag < canvas >, como seus atributos.
+
+# 
+**3- _Desafio HTML - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de por em prática o conhecimento adquirido durante o curso de HTML-5 Developer.
+
