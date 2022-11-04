@@ -28,6 +28,27 @@ main {
     width: 1050px;
 }
 
+/*Foi necessário criar todo conteúdo de "article" para display flex, para poder alinhar a imagem com o último parágrafo.*/
+
+article {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+p {
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 19px;
+    text-indent: 10px;
+    text-align: justify;
+    margin: 7px;
+}
+
+mark {
+    background-color: #f8c2cbb0;
+}
+
 footer {
     min-height: 150px;
     width: 1600px;
@@ -49,6 +70,7 @@ h2 {
 .title {
     margin-left: 55px;
     font-family: 'Aref Ruqaa', sans-serif;
+    margin-bottom: 2px;
 
 }
 
@@ -79,6 +101,7 @@ h2 {
     background-color: #f0d2d7;
     display: flex;
     flex-direction: column;
+    font-size: 18px;
 }
 
 .anchors {
@@ -88,6 +111,20 @@ h2 {
     border-left: solid 1px #cdcdcd;
     background-color: #f0d2d7;
     align-items: center;
+    font-size: 18px;
+
+}
+
+.lacos {
+    font-family: 'Aref Ruqaa', sans-serif;
+    font-size: 25px;
+}
+
+.artesan {
+    border-radius: 70%;
+    width: 150px;
+    height: 180px;
+    padding: 10px;    
 }
 
 .frase {
@@ -95,6 +132,30 @@ h2 {
     padding-left: 45px;
     padding-right: 70px;
     font-family: 'Aref Ruqaa', sans-serif;
+}
+
+.frase-final {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cuidados{
+    font-family: 'Josefin Sans';
+    padding-left: 90px;
+    font-size: 25px;
+    list-style-image: url(/check/Sem\ título.png);
+}
+
+.carinho {
+    font-family: 'Josefin Sans';
+    font-size: 35px;
+    padding-left: 40px;
+
+}
+
+.chamada {
+    font-size: 30px;
 }
 
 .contato {
@@ -133,5 +194,4 @@ h2 {
 
 .face-icon {
     height: 150px;
-
 }
