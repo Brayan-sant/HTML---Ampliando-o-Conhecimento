@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2-** [_HTML: Recursos Especiais_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/Aulas/HTML%20-%20Recursos%20Especiais.docx)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **3-** _Desafio HTML - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_
+&nbsp;&nbsp;&nbsp;&nbsp; **3-** [_Desafio HTML - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/index.html)
 
 # 
 **1- Entendendo HTML Semântico**
