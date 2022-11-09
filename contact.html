@@ -7,13 +7,10 @@
     <title>Ateliê Elaine Mattos</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
-
 <body>
-    <header>
-        <figure>
-            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/logomarca.png" class="logomarca" alt="logomarca" title="logomarca"/>
-
-            <h1 id="inicio" class="atelie">Ateliê Elaine Mattos</h1>
+    <header class="header-contact">
+        <figure class="fig-contact">
+            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/img-head-contato.png" class="head-contato" alt="Figura ilustrativa de avião e localização, representando envio dos produtos para todo o Brasil" title="Imagem indicando frete para todo o Brasil"/>
         </figure>
     </header>
     <!--Foi necessário criar uma tag div para colocar corpo do body em ordem sequencial-->
@@ -21,31 +18,31 @@
         <nav class="navegacao">
             <h2>Navegação</h2>
                 <ul>
-                    <li><a href="index.html">Minha História</a></li><br>
-                    <li><a href="product.html">Laços e Tiaras</a></li><br>
+                    <li><a href="index.html">Laços e Tiaras</a></li><br>
                     <li><a href="questions.html">Você sabe cuidar do seu laço?</a></li><br>
+                    <li><a href="about.html">Minha História</a></li><br>
                     <li><a href="contact.html">Contato</a></li><br>
                 </ul>
         </nav>
-
-        <main>
+        <main class="main-contact">
             <h1 class="title"> Contato </h1>
-                <article>
-                    
+                <article class="content-contact">
+                    <p class="frase-contact">
+                        Enviamos para todo o Brasil!
+                    </p>
+                    <p class="frase-contact">
+                        Clique no ícone para mais informações:
+                    </p>
+                    <figure class="redessociais">
+                        <a href="https://web.whatsapp.com/send?phone=+55 35 8875-6353" target="_blank">
+                            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/icone-whatsapp.png" alt="Ícone do WhatsApp" title="WhatsApp" class="whats-icon-contact">
+                        </a>
+                    </figure>
                 </article>
-                
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59706.842350264276!2d-46.61464444999999!3d-20.723310599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b6c3b51bc0dabf%3A0x8e4ec776339fd64d!2sPassos%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1667612631512!5m2!1spt-BR!2sbr" class="mapa-google" style="border-color: black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" alt="Mapa interativo fornecido pel Google Maps, informando a localiação do Ateliê."></iframe> 
         </main>
-
-        <nav class="anchors">
-            <h2>Neste Artigo</h2>
-                <ul>
-                    <li><a href="#inicio">Início</a></li><br>
-                    <li><a href="#final">Final</a></li>
-                </ul>
-        </nav>
     </div>
-
-    <footer>
+    <footer class="footer-contact">
         <p class="frase"><i> Venha conhecer o Ateliê! </i></p>
         <!--Foi necessário criar uma div para transformar o conteúdo em um bloco para ser trabalhado no CSS-->
             <div class="contato">
@@ -69,6 +66,5 @@
                 </a>
             </figure>
     </footer>
-
 </body>
 </html>
