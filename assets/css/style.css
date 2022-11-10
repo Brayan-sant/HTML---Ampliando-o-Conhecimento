@@ -30,10 +30,7 @@ main {
 
 /*Foi necessário criar todo conteúdo de "article" para display flex, para poder alinhar a imagem com o último parágrafo.*/
 
-article {
-    display: flex;
-    flex-direction: column;
-}
+
 
 p {
     padding-right: 15px;
@@ -71,6 +68,13 @@ h2 {
     margin-left: 55px;
     font-family: 'Aref Ruqaa', sans-serif;
     margin-bottom: 2px;
+}
+
+.title-laco {
+    margin-left: 55px;
+    font-family: 'Aref Ruqaa', sans-serif;
+    margin-bottom: 2px;
+    font-size: 50px;
 }
 
 .logomarca {
@@ -240,4 +244,111 @@ h2 {
 
 .face-icon {
     height: 120px;
+}
+
+/*Precisou-se criar um container central para poder criar sub-filhos do contaier pai. E assim, poder trabalhar cada imagem com seu respectivo parágrafo*/
+
+.lacos-product {
+    flex-direction: column;
+}
+
+.fig-laco {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.laco-1{
+    width: 500px;
+    height: 480px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+.laco-2{
+    width: 400px;
+    height: 500px;
+    border-radius: 15%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-3{
+    width: 500px;
+    height: 480px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-4{
+    width: 500px;
+    height: 480px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-5{
+    width: 500px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-6{
+    width: 500px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-7{
+    width: 500px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.laco-8{
+    width: 500px;
+    height: 480px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+
+.laco-9{
+    width: 500px;
+    height: 480px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.description-laco {
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 35px;
+
+}
+
+.frase-final {
+    font-family: 'Aref Ruqaa', sans-serif;
+    font-size: 50px;
+}
+
+/*precisou criar um display filho para poder colocar o link em linha começando pelo ordem contrária pelo atributo "row-reverse"*/
+.voltar-laco {
+    display: flex;
+    flex-direction:row-reverse;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    font-size: 17px;
 }
