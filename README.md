@@ -26,5 +26,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de por em prática todo o conhecimento adquirido durante o curso de HTML-5 Developer. Além disso, verificando a acessibilidade do site através do programa de leitura de tela NVDA.
 
-&nbsp; Criando site de engajamento e direcionamento para os principais meios de vendas da empresa.  
+&nbsp; Criando site de engajamento e direcionamento para os principais meios de vendas para empresa de confecção de produtos artesanais.  
 
