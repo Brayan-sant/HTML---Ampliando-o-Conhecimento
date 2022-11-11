@@ -1,4 +1,5 @@
 /*Para colocar novo estilo de fonte, precisa vir na primeira linha no CSS*/
+
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Josefin+Sans:wght@400&family=Pinyon+Script&display=swap');
 
 
@@ -59,10 +60,17 @@ ul { list-style: none; padding-left: 5px; }
 
 a { color:rgb(39, 59, 243); text-decoration: none;  font-family: 'Josefin Sans';}
 
+a:hover {
+    color: red;
+}
+
 h2 {
     font-family: 'Aref Ruqaa', sans-serif;
 }
 
+li {
+    cursor: pointer;
+}
 
 .title {
     margin-left: 55px;
@@ -159,6 +167,7 @@ h2 {
 
 .chamada {
     font-size: 30px;
+    text-align: center;
 }
 
 .header-contact{
@@ -188,6 +197,7 @@ h2 {
 
 .frase-contact {
     font-size: 30px;
+    text-align: center;
 }
 
 .mapa-google {
@@ -240,6 +250,7 @@ h2 {
 
 .whats-icon-contact {
     height: 190px;
+    margin-left: 100px;
 }
 
 .face-icon {
@@ -344,11 +355,65 @@ h2 {
     font-size: 50px;
 }
 
+.voltar-about {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
 /*precisou criar um display filho para poder colocar o link em linha começando pelo ordem contrária pelo atributo "row-reverse"*/
-.voltar-laco {
+.voltar {
     display: flex;
     flex-direction:row-reverse;
     margin-right: 25px;
     margin-bottom: 10px;
     font-size: 17px;
+}
+
+.description-tiara {
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 35px;
+}
+
+.title-tiara {
+    margin-left: 55px;
+    margin-top: 30px;
+    margin-bottom: 2px;
+    font-family: 'Aref Ruqaa', sans-serif;
+    font-size: 45px;
+}
+
+.fig-tiara {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.tiara-1 {
+    width: 480px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.tiara-2 {
+    width: 500px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
+}
+
+.tiara-3 {
+    width: 500px;
+    height: 580px;
+    border-radius: 25%;
+    border:#eba4b0 solid 1px;
+    box-shadow:#f5183d62 1px 1px 2px 0px;
 }

@@ -11,7 +11,7 @@
 <body>
     <header class="header-contact">
         <figure class="fig-contact">
-            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/1.png" class="head-contato" alt="Figura ilustrativa contendo imagem de fundo cinza fosco, nuvens e estrelas desenhadas, e com a escrita de laços e tiaras, show fashion" title="Laços e Tiaras"/>
+            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/1.png" class="head-contato" alt="Figura ilustrativa contendo imagem de fundo cinza fosco, nuvens e estrelas desenhadas, e com a escrita de Tiaras, show fashion" title="Tiaras"/>
         </figure>
     </header>
     <!--Foi necessário criar uma tag div para colocar corpo do body em ordem sequencial-->
@@ -27,39 +27,48 @@
                 </ul>
         </nav>
         <main>
-            <h1 class="title"> Você vai amar! </h1>
+            <h1 class="title-tiara" id="inicio"> Delicadeza que transforma! </h1>
                 <article class="lacos-product">
-                    <figure class="fig-tiara-1">
-                        <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-1.jpg" alt="Tiara Luxo, bordada com pérolas azuis" title="Tira Luxo" class="tiara-1">
-                    </figure>
-                    <p>
-                        Tiara Luxo, bordada com pérolas.
+                    <div class="fig-tiara">
+                        <figure>
+                            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-1.png" alt="Tiara Luxo, bordada com pérolas azuis" title="Tira Luxo" class="tiara-1">
+                        </figure>
+                        <p class="description-tiara">
+                            <strong>Tiara Luxo</strong>, bordada com pérolas azuis.
+                        </p>
+                    </div>
+                    <div class="fig-tiara">
+                        <figure class="fig-tiara-2">
+                            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-2.png" alt="Tiara verão,com fitas de gorgurão nas cores verde, laranja e rosa neon" title="Tiara Verão" class="tiara-2">
+                        </figure>
+                        <p class="description-tiara">
+                            <strong>Tiara Verão</strong>, super fashion. Tiaras confeccionadas com  fitas de gorgurão nas cores neon e a fita jeans preta.
+                        </p>
+                    </div>
+                    <div class="fig-tiara">
+                        <figure class="fig-tiara-3">
+                            <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-3.jpg" alt="Tiara Floral,  fita jeans azul escuro, flores de tecido cor rosa com detalhe de meia pérola irisada" title="Tiara Floral" class="tiara-3">
+                        </figure>
+                        <p class="description-tiara">
+                            <strong>Tiara Floral</strong>, confeccionada com a fita jeans azul escuro, flores de tecido com detalhe em meia pérola irisada.
+                        </p>
+                    </div>
+                    <p class="frase-final">
+                        Será um prazer lhe atender...
                     </p>
-                    <figure class="fig-tiara-2">
-                        <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-2.jpg" alt="Tiara verão,com fitas de gorgurão nas cores verde, laranja e rosa neon" title="Tiara Verão" class="tiara-2">
-                    </figure>
-                    <p>
-                        Tiara Verão, super fashion. Tiaras confeccionadas com  fitas de gorgurão nas cores neon e a fita jeans preta.
-                    </p>
-                    <figure class="fig-tiara-3">
-                        <img src="Desafio HTML - Criando Layout Moder estilo Wikipedia para Empreendedora laceira/imgs/tiara-3.jpg" alt="Tiara Floral,  fita jeans azul escuro, flores de tecido cor rosa com detalhe de meia pérola irisada" title="Tiara Floral" class="tiara-3">
-                    </figure>
-                    <p>
-                        Tiara Floral, confeccionada com a fita jeans azul escuro, flores de tecido com detalhe em meia pérola irisada.
-                    </p>
-                    
+                    <small><a href="#inicio" class="voltar">{voltar}</a></small>
                 </article> 
         </main>
         <nav class="anchors">
             <h2>Neste Artigo</h2>
                 <ul>
                     <li><a href="#inicio">Início</a></li><br>
-                    <li><a href="#final">Final</a></li>
+                    <li><a href="#final-tiara">Final</a></li>
                 </ul>
         </nav>
     </div>
     <footer>
-        <p class="frase"><i> Venha conhecer o Ateliê! </i></p>
+        <p class="frase" id="final-tiara"><i> Venha conhecer o Ateliê! </i></p>
         <!--Foi necessário criar uma div para transformar o conteúdo em um bloco para ser trabalhado no CSS-->
             <div class="contato">
                 <h3 class="titulo-contato"> Contato </h3>
@@ -82,6 +91,5 @@
                 </a>
             </figure>
     </footer>
-
 </body>
 </html>
