@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [_Site do Projeto_]( https://brayan-sant.github.io/HTML---Ampliando-o-Conhecimento/)
 
 # 
-**1- Entendendo **
+**1- Entendendo HTML Semântico**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de entender e aplicar estrutura semântica no HTML, principalmente para facilitação de SEO e acessibilidade.
 
