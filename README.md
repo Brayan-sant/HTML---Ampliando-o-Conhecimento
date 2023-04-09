@@ -24,7 +24,7 @@
 &nbsp; Tag <datalist >, Tag < code >, Tag < kbd >, Tag < pre >, Tag < details >, Tag < meter >, Tag < progress >, Tag < mark > + JavaScript e Tag < canvas >, como seus atributos.
 
 # 
-**3- _Desafio - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_**
+**3- _Desafio HTML - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de por em prática todo o conhecimento adquirido durante o curso de HTML-5 Developer. Além disso, verificando a acessibilidade do site através do programa de leitura de tela NVDA.
 
