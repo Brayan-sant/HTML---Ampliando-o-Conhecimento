@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** [_Entendendo HTML Semântico_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/Aulas/Entendendo%20HTML%20Sem%C3%A2ntico.docx)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2-** [__](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** [_HTML: Recursos Especiais_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/index.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-** [_Desafio HTML - Criando Layout Moderno estilo Wikipedia para Empreendedora Laceira_](https://github.com/Brayan-sant/HTML---Ampliando-o-Conhecimento/blob/master/index.html)
 
